@@ -38,6 +38,8 @@
 \usepackage{booktabs} % Pro lepší vzhled tabulky
 \usepackage{float}
 \usepackage[table,xcdraw]{xcolor}
+\usepackage{hyperref}
+\usepackage{amsmath}
 
 \title{Provedení zkoušek nakrátko a naprázdno na neznámém transformátoru}
 
